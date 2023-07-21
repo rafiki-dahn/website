@@ -36,6 +36,7 @@ More packages available, with links to download/install instructions:
 | QNAP                   | https://www.qnapclub.eu/en/qpkg/958 |
 | TrueNAS SCALE          | https://truecharts.org/apps/stable/navidrome |
 | YunoHost               | https://yunohost.org/en/app_navidrome |
+| DietPi                 | https://dietpi.com/docs/software/media/#navidrome) |
 
 
 If you create, or know of, other Navidrome packages that are publicly available, please [add to the list above](https://github.com/navidrome/website/edit/master/content/en/docs/Installation/packages.md).
